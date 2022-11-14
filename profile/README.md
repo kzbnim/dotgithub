@@ -1,0 +1,3 @@
+These are the github repositories for the Ministry of the Interior and Kingdom Relations.
+
+Please read our [Code of Conduct](https://github.com/minbzk/.github/blob/main/CODE_OF_CONDUCT.md), [Contributing](https://github.com/minbzk/.github/blob/main/CONTRIBUTING.md), [Security](https://github.com/minbzk/.github/blob/main/SECURITY.md) and [CLA](https://github.com/minbzk/.github/blob/main/CLA.md) documents.
